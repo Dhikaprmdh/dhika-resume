@@ -1958,6 +1958,13 @@ a.brand:focus{
   .menu{
     width:50%;
   }
+
+  iframe.video {
+    max-width: 70%;
+    height: 60%;
+    display: block;
+    margin: 0 1%;
+  }
 }
 
 
