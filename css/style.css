@@ -1960,7 +1960,7 @@ a.brand:focus{
   }
 
   iframe.video {
-    max-width: 70%;
+    max-width: 90%;
     height: 60%;
     display: block;
     margin: 0 1%;
@@ -1978,7 +1978,12 @@ a.brand:focus{
     font-size: 13px;
   }
 
-
+  iframe.video {
+    max-width: 90%;
+    height: 60%;
+    display: block;
+    margin: 0 1%;
+  }
 
   /* Sidebar Menu */
 
@@ -2044,7 +2049,12 @@ a.brand:focus{
     padding:2.7rem 0;
   }
 
-
+  iframe.video {
+    max-width: 90%;
+    height: 60%;
+    display: block;
+    margin: 0 1%;
+  }
 
   /* Sidebar Menu */
 
@@ -2089,7 +2099,12 @@ a.brand:focus{
   
 }
 
-
+iframe.video {
+  max-width: 90%;
+  height: 60%;
+  display: block;
+  margin: 0 1%;
+}
 
 /* 5.5 Min Height 600px */
 
